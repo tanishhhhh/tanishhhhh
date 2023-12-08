@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanishhhh_7" target="blank"><img src="https://img.shields.io/twitter/follow/tanishhhh_7?logo=twitter&style=for-the-badge" alt="tanishhhh_7" /></a> </p>
 
-- 🔭 I’m currently working on **Keylogger spyware**
+- 🔭 I’m currently working on **Football News Feed Android Application**
 
 - 🌱 I’m currently learning **Ethical Hacking, Kali Linux**
 
